@@ -34,4 +34,7 @@
    <h1> Thankyou, Happy Learning </h1>
 
   
+<<<<<<< HEAD
 </form>>
+=======
+</form>
